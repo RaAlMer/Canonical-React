@@ -9,13 +9,16 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
+    "sass": "^1.50.0",
+    "vanilla-framework": "^3.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build-css": "sass -w --load-path=node_modules src:dist --style=compressed"
   },
   "eslintConfig": {
     "extends": [
