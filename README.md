@@ -16,6 +16,8 @@ Code test done using Vanilla framework developed by Canonical.
 
 [Repository Link](https://github.com/RaAlMer/Canonical-React)
 
+[Deployment Link](https://raalmer.github.io/Canonical-React/)
+
 ## Available Scripts
 
 In the project directory, you can run:
