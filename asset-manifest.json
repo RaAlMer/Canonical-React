@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Canonical-React/static/css/main.ec136455.css",
+    "main.js": "/Canonical-React/static/js/main.4eee1148.js",
+    "static/js/787.b4c9c8ad.chunk.js": "/Canonical-React/static/js/787.b4c9c8ad.chunk.js",
+    "index.html": "/Canonical-React/index.html",
+    "main.ec136455.css.map": "/Canonical-React/static/css/main.ec136455.css.map",
+    "main.4eee1148.js.map": "/Canonical-React/static/js/main.4eee1148.js.map",
+    "787.b4c9c8ad.chunk.js.map": "/Canonical-React/static/js/787.b4c9c8ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec136455.css",
+    "static/js/main.4eee1148.js"
+  ]
+}
